@@ -1,2 +1,2 @@
 # belajar-colleb
-repo untuk kolaborasi dengan pengguna lain
+repo untuk kolaborasi dengan pengguna
